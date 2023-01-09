@@ -2,7 +2,7 @@
 A simple calculator made with Python, Flask, and JavaScript.
 
 ## Example
-https://github.com/JiriJAdam/calculator/blob/main/static/Example.png?raw=true
+(Example.png)
 
 ## Versions
 Flask==2.2.2
